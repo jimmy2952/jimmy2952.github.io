@@ -98,33 +98,6 @@ body {
   bottom: 0;
 }
 
-.carousel-section .row .carousel .carousel-inner .carousel-item .img-01 {
-  bottom: -20%;
-}
-
-.carousel-section .row .carousel .carousel-inner .carousel-item .img-02 {
-  bottom: -18%;
-}
-
-.carousel-section .row .carousel .carousel-inner .carousel-item .img-03 {
-  bottom: -15%;
-}
-
-.carousel-section .row .carousel .carousel-inner .carousel-item .img-04 {
-  bottom: 0%;
-}
-
-.carousel-section .row .carousel .carousel-inner .carousel-item .img-05 {
-  bottom: -10%;
-}
-
-.carousel-section .row .carousel .carousel-inner .carousel-item .img-06 {
-  bottom: -20%;
-}
-
-.carousel-section .row .carousel .carousel-inner .carousel-item .img-07 {
-  bottom: -20%;
-}
 
 .carousel-section .screen-mask {
   background-color: rgba(0, 0, 0, 0.3);
